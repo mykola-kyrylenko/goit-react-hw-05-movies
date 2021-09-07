@@ -1,0 +1,19 @@
+.container {
+  border-radius: 10px;
+  background-color: rgba(0, 170, 238, 0.8);
+}
+
+.navList {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  padding-left: 0px;
+}
+
+.navListItem {
+  padding: 20px;
+}
+
+.link {
+  text-decoration: none;
+}
